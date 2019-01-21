@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  ratingservice:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: 2019-01-21T17:44:36.663176+07:00
+    description: A Helm chart for Kubernetes
+    digest: d60e7d210493a9caf473a0f8a9e62fe068ca9da5e052d4c28f67c45eb0a4dfbe
+    name: ratingservice
+    urls:
+    - ratingservice-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-01-21T17:44:36.659898+07:00
